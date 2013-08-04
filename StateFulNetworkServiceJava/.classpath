@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/kuehner/bachelorarbeit/allStuff/generic concurrency problems/final problems/netty-4.0.4.Final/jar/all-in-one/netty-all-4.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="externalJars/netty-all-4.0.4.Final.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
